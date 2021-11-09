@@ -1,0 +1,2 @@
+# Segmentaci-n_de_clientes
+segmentacion_de_clientes_con_kmean_RFM
