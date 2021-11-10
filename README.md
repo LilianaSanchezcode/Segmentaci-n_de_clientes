@@ -87,16 +87,20 @@ Segmentar a los usuarios del eCommerce con el fin de enfocar acciones y campaña
 **Segmentación de clientes mediante el método RFM.**
 
 - Segmentación de RFM mediante agrupación en clústeres de K-means.
-- 
+
 - Estandarización de las características de RFM
-- 
+ 
 - Elección del hiperparámetro k (número de grupos) mediante el método Elbow 
+
 
 **Hallazgos:**
 
 
 Mediante este análisis se encontró 3 segmentos o grupos de usuarios:
-Clúster 0: Segmento de Usuarios Top .
+
+
+**Clúster 0: Segmento de Usuarios Top.**
+
 Los clientes de esta categoría son compradores habituales recientes/ actuales (poca antigüedad , frecuencia alta). Su transacción más reciente fue hace solo unos días, con una frecuencia de 26 transacciones en los últimos seis meses . (son 66 usuarios, equivalente al 1.5 % de toda la base de usuarios).
 
 **Clúster 1: Segmento de Usuarios Abandonados.**
