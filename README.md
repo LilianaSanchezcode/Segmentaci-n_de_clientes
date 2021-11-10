@@ -86,11 +86,11 @@ Segmentar a los usuarios del eCommerce con el fin de enfocar acciones y campaña
 
 **Segmentación de clientes mediante el método RFM.**
 
-- Segmentación de RFM mediante agrupación en clústeres de K-means.
+**Segmentación de RFM mediante agrupación en clústeres de K-means.**
 
-- Estandarización de las características de RFM
+**Estandarización de las características de RFM**
  
-- Elección del hiperparámetro k (número de grupos) mediante el método Elbow 
+**Elección del hiperparámetro k (número de grupos) mediante el método Elbow**
 
 
 **Hallazgos:**
